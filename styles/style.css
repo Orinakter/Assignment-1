@@ -101,3 +101,134 @@
     padding-top: 20px;
     border-radius: 16px;
 }
+
+.fourth-section{
+    display: flex;
+    align-items: center;
+    align-items: center;
+
+
+}
+
+.card-html{
+    /* height: 364px;
+    width: 300px; */
+    border: 2px solid red;
+}
+
+.fourth-section{
+    width: 1140px;
+    height: 463px;
+    border: 2px solid red;
+    margin: 0 auto;
+    opacity: 0.7;
+    
+
+}
+.target-text{
+    width: 1140px;
+    height: 463px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    
+}
+.target-text h1{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+padding-top: 37px;
+}
+
+.target-text p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 35px;
+    padding-right:35px ;
+    
+}
+
+.card-image{
+    width: 1140px;
+    height: 300px;
+    border: 2px solid red;
+}
+.box-container{
+    width: 1140px;
+    height: 314px;
+    margin: 0 auto;
+    border: 2px solid red;
+    margin-top: 80px;
+    background-image: url(../images/handshake.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+
+}
+
+.box-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box-content h1{
+    width: 292px;
+    height: 36px;
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 700;
+    margin: 50px
+
+}
+
+.box-content p{
+    width: 606px;
+    height: 52px;
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.box-content input{
+    width: 548px;
+    height: 57px;
+    border: none;
+    color:white;
+    
+}
+
+#Subscription-btn{
+    width: 120px;
+    height: 58px;
+    order-radius: 8px;
+    background: rgb(255, 255, 255);
+}
+    
+
+
+
+
+.footer-section {
+    width: 1440px;
+    height: 100px;
+    padding: 0 370px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+    display: flex;
+    align-items: center;
+   
+  }
+  
+  .Social-media-icon {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
